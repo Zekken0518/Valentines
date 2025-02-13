@@ -26,7 +26,7 @@
   color: white;
   font-size: 24px;
   line-height: 1.5;
-  animation: scroll-up 20s linear infinite;
+  animation: scroll-up 600s linear infinite;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add text shadow for better visibility */
 }
 
